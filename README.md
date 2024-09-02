@@ -1,6 +1,6 @@
 <img width="1000px" src="https://github.com/jatinbansal21/jatinbansal21/blob/main/github-header-image.png" alt="github banner">
 # 💫Hi Folks:
-I am Jatin Bansal. I am currently pursuing my Bachelor of Technology focused in Mechanical Engineering from Indian Institute of Technology, Guwahati. I am a developer skilled in C++, Front-End Development, learning Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+I am Jatin Bansal. I am currently pursuing my Bachelor of Technology focused in Mechanical Engineering from Indian Institute of Technology, Guwahati. I am a developer skilled in C++, Web Development, learning Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
 
 ## 🌐 Socials:
